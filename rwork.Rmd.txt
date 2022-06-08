@@ -1,6 +1,6 @@
 ---
 title: <ML Project>
-author: "by Ashutosh Bhardwaj"
+author: "by Aditya Kotiyal"
 output:
   html_document:
     fig_height: 9
